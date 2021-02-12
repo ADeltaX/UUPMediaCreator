@@ -10,7 +10,7 @@
     project. Since we don't really need those metadata providers yet, this is just an easy workaround
     -->
 		<XamlCodeGenerationControlFlags>DoNotGenerateOtherProviders</XamlCodeGenerationControlFlags>
-		<Platforms>x86;x64</Platforms>
+		<Platforms>x86;x64;arm64</Platforms>
 		
 		<TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
 		<TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
